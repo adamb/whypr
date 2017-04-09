@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "One Year In"
 date = "2017-02-09T23:14:05-04:00"
 categories = ["JavaScript"] tags = ["angular2","spring","WebSockets",] 
