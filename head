@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Content-Type: text/html
+Date: Tue, 28 Feb 2017 01:27:17 GMT
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+Server: Apache
+Set-Cookie: PHPSESSID=l1r7ra0sjac7ba4p4bd5lmj146; path=/
+Set-Cookie: AWSELB=F1E131E50EF091F2748F3BF05B2028E05203E1C496D014B289B6EFEB4E11439597734C0A54C8480531C5F00C63D3F5E9F7705CF78005C89A6386F270B2A7621CE50366AC05CCC9BA1C1735BC75C4946A0C3847960C;PATH=/
+Vary: Accept-Encoding
+Content-Length: 6325
+Connection: keep-alive
+
