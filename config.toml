@@ -6,7 +6,7 @@ preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
 googleAnalytics = "UA-92635454-1"
-publishDir = "docs"
+publishDir = 	"docs"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
