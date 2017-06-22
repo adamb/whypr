@@ -2,6 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://whypr.rocks/post/2017-05-08-uber-pr/</loc>
+    <lastmod>2017-05-08T09:25:45-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://whypr.rocks/post/2017-05-04-dual-momentum/</loc>
+    <lastmod>2017-05-04T07:58:57-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://whypr.rocks/post/one-year-in/</loc>
     <lastmod>2017-02-09T23:14:05-04:00</lastmod>
   </url>
@@ -13,7 +23,7 @@
   
   <url>
     <loc>http://whypr.rocks/post/</loc>
-    <lastmod>2017-02-09T23:14:05-04:00</lastmod>
+    <lastmod>2017-05-08T09:25:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -24,7 +34,7 @@
   
   <url>
     <loc>http://whypr.rocks/</loc>
-    <lastmod>2017-02-09T23:14:05-04:00</lastmod>
+    <lastmod>2017-05-08T09:25:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -35,14 +45,32 @@
   </url>
   
   <url>
+    <loc>http://whypr.rocks/categories/investing/</loc>
+    <lastmod>2017-05-04T07:58:57-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://whypr.rocks/categories/javascript/</loc>
     <lastmod>2017-02-09T23:14:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://whypr.rocks/categories/puerto-rico/</loc>
+    <lastmod>2017-05-08T09:25:45-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://whypr.rocks/tags/spring/</loc>
     <lastmod>2017-02-09T23:14:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://whypr.rocks/categories/uber/</loc>
+    <lastmod>2017-05-08T09:25:45-04:00</lastmod>
     <priority>0</priority>
   </url>
   
