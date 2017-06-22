@@ -4,7 +4,7 @@ categories: [Investing, Puerto Rico]
 date: 2017-05-04T07:58:57-04:00
 description: "Investing using Dual Momentum"
 linktitle: "Moving into a Dual Momentum Portfolio"
-title: 2017 05 04 dual momentum
+title: Moving into a Dual Momentum Portfolio
 ---
 ## QuantCon
 
@@ -20,7 +20,7 @@ Innovative Strategy for Higher Returns with Lower Risk](https://www.amazon.com/g
 
 In the past my approach has been to have a balanced portfolio split between stocks and bonds.  In the late 1990s and early 2000s
 we moved into a diversified portfolio of stocks and municiple bonds.  Those bonds have been maturing and I haven't really 
-had a lot of choice for the bonds so I've moved to corporate bonds but this seems too risky to me really, since it's not really
+had a lot of choice for the bonds so I've moved to corporate bonds but this seems too risky to me really, since it's not 
 diversified, it's all companies.  I've also moved to Puerto Rico (link) and so the tax advantage of bonds no longer applies
 if you live here. (Is that true?  How is bond interest taxed as a PR resident?  The are taxed at the Federal level and then
 also at the PR level?)
@@ -30,12 +30,13 @@ Let's talk about the stock side of that portfolio first. How do you diversify? T
 Looking at sites like Betterment, Market Riders, and Wealth Front they will do this for you, for a fee of course. The problem
 with these sites is that they don't take into account your existing portfolio with respect to taxes or diversification. They just
 tell you to give them cash and they'll deal with it.  If you have large gains, then their advice is to just sell and give them
-the cash.  Sorry that doesn't make any sense.
+the cash.  Sorry that just doesn't make any sense.
 
 So I've been working on slowly move our stock portfolio over to a handful of index ETFs. Broad ETFs will let you ride the market
-trends with very little fees.  I've mostly been using [Vanguard Total Market Index (VTI)](http://...)  The question then 
-becomes how to do you move out of 50 or so stocks and into a handful of ETFs?  My strategy was to simply sell anyting that
-didn't have a tax consequence and then buy VTI with the proceeds. 
+trends with very little fees. I've mostly been using [Vanguard Total Market Index
+(VTI)](https://personal.vanguard.com/us/funds/snapshot?FundIntExt=INT&FundId=0970) The question then becomes how to do you move
+out of 50 or so stocks and into a handful of ETFs? My strategy was to simply sell anyting that didn't have a tax consequence and
+then buy VTI with the proceeds.
 
 ## Enter Dual Momentum
 
@@ -58,9 +59,13 @@ information.
 
 So back to my original problem.  How do I move into this portfolio?  Since the model is telling me that I should be in 
 VOO right now, I'm selling my BND ETF as well as my small GLD ETF and moving those to VOO.  That part is easy.
-What about that basket of stocks?
+What about that basket of stocks?  I have a set of other individual stocks that I'm going to just let ride for now.  
+I've held most of these stocks for a long time, Warren Buffet style, so there is no reason to sell them.  Since I have
+a Puerto Rico tax decree, if I hold them for 10 years I only pay 5% tax, so unless I think the company is going to tank,
+I'll just hold them for another 8.5 years and then diversify.  
 
 
-o Ask Loomba about the bond interest 
+
+
 
 

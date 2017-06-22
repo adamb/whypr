@@ -1,7 +1,7 @@
 baseurl = "http://whypr.rocks/"
 languageCode = "en-us"
 title = "Why Puerto Rico"
-theme = "hugo-future-imperfect"
+theme = "hugo-bootstrap"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "shortname"
